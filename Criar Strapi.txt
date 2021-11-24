@@ -1,0 +1,15 @@
+npx create-strapi-app .
+
+host: cluster0.lcdpu.mongodb.net
+
+username: HenriqueGoulart
+
+password: .3Desenv99
+
+---------------------------------------
+
+strapi-provider-upload-cloudinary
+
+https://www.npmjs.com/package/strapi-provider-upload-cloudinary
+
+---------------------------------------
